@@ -34,7 +34,7 @@ Each analysis populates the following on the record:
 - Suggested remediation steps
 - Stakeholder communication update
 
-![Scoped Application Overview](screenshots/scoped-app.png)
+![Scoped Application Overview](https://github.com/10DownPro/ai-incident-command-center/blob/main/imgs/2026-05-06.%20System%20Admini.%20System%20Admin%20Q%201.png?raw=true)
 
 ---
 
@@ -82,9 +82,9 @@ The app uses a dedicated custom table to track both incident details and AI outp
 | Slack Sent | Boolean flag for notification status |
 | Analysis Timestamp | When the analysis was executed |
 
-![Custom Table Configuration](screenshots/custom-table.png)
+![Screenshot](https://github.com/10DownPro/ai-incident-command-center/blob/main/imgs/screenshot-3.png?raw=true)
 
-![Choice Field Setup](screenshots/choice-fields.png)
+![Screenshot](https://github.com/10DownPro/ai-incident-command-center/blob/main/imgs/screenshot-2.png?raw=true)
 
 ---
 
@@ -136,8 +136,7 @@ The "Run AI Analysis" button is configured as a server-side UI Action on the inc
 
 ## Sample Records
 
-![Sample Incident Records](screenshots/sample-records.png)
-
+![Screenshot](https://github.com/10DownPro/ai-incident-command-center/blob/main/imgs/screenshot-1.png?raw=true)
 ---
 
 ## Technologies
